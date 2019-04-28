@@ -1,0 +1,13 @@
+{
+    "name": "jaypan/web-audio-recorder.js",
+    "description": "A wrapper for the higuman/web-audio-recorder-js Github library (https://github.com/higuma/web-audio-recorder-js) allowing installation through Composer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Friendly",
+            "email": "contact@jaypan.com"
+        }
+    ],
+    "require": {}
+}
